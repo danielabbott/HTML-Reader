@@ -1,0 +1,2 @@
+Takes an HTML file (or reads HTML from stdin) and outputs the text of the document (no CSS or JS).
+ANSI terminal formatting is supported.
